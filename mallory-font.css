@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Mallory';
-    src: url('Mallory-Medium.woff2') format('woff2'),
-        url('Mallory-Medium.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/evgeniy-vashchuk/mallory-font-host/Mallory-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/evgeniy-vashchuk/mallory-font-host/Mallory-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -9,28 +9,9 @@
 
 @font-face {
     font-family: 'Mallory Ultra';
-    src: url('Mallory-Ultra.woff2') format('woff2'),
-        url('Mallory-Ultra.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/evgeniy-vashchuk/mallory-font-host/Mallory-Ultra.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/evgeniy-vashchuk/mallory-font-host/Mallory-Ultra.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
 }
-
-@font-face {
-    font-family: 'Mallory';
-    src: url('Mallory-Medium.woff2') format('woff2'),
-        url('Mallory-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Mallory Ultra';
-    src: url('Mallory-Ultra.woff2') format('woff2'),
-        url('Mallory-Ultra.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-
